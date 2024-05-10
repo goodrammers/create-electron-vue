@@ -1,0 +1,27 @@
+{
+    "name": "create-electron-vue",
+    "version": "0.0.0",
+    "description": "",
+    "scripts": {
+        "dev": "ts-node src/create-electron-dev.ts"
+    },
+    "keywords": [
+        "electron",
+        "vue3",
+        "vite",
+        "typescript"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/goodrammers/create-electron-vue.git"
+    },
+    "dependencies": {
+        "commander": "^12.0.0"
+    },
+    "devDependencies": {
+        "@types/node": "^20.12.11",
+        "ts-node": "^10.9.2",
+        "typescript": "^5.4.5"
+    },
+    "license": "MIT"
+}
